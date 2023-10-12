@@ -30,7 +30,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### ¯\_(ツ)_/¯
+###  ¯\_(ツ)_/¯
 <img src='https://codingbootcamps.io/wp-content/uploads/m27.png' style="height: 400px;"/>
 
 
