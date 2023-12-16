@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+mono&pause=1000&color=CFD5F7&center=true&width=550&lines=Before+i+intro+myself%2C+switch+to+dark+mode.;Hi%2C+I'm+Ian+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on: **Azure data engineering DP-203**
+🔭 I’m currently working on: **AWS cloud Practitioner(CLF-C02)**
 
 🌱 I’m currently learning: **Python**
 
