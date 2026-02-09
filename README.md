@@ -149,10 +149,13 @@ Projects that help me learn by doing - because the best way to understand infras
 ![Bitcoin](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%26vs_currencies=usd&query=$.bitcoin.usd&prefix=$&label=Bitcoin&style=for-the-badge&logo=bitcoin&logoColor=white&color=F7931A)
 ![Ethereum](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum%26vs_currencies=usd&query=$.ethereum.usd&prefix=$&label=Ethereum&style=for-the-badge&logo=ethereum&logoColor=white&color=627EEA)
 
-[![BTC Chart](https://www.coingecko.com/coins/1/sparkline.svg)](https://www.coingecko.com/en/coins/bitcoin)
-[![ETH Chart](https://www.coingecko.com/coins/279/sparkline.svg)](https://www.coingecko.com/en/coins/ethereum)
+<br><br>
 
-*Prices update on page refresh • Charts show 7-day trend*
+<a href="https://www.coingecko.com/en/coins/bitcoin" target="_blank">
+  <img src="https://www.coingecko.com/coins/1/sparkline.svg" alt="Bitcoin 7-day chart" width="400"/>
+</a>
+
+*Prices update on page refresh • Chart shows 7-day BTC trend*
 
 </div>
 
