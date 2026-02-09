@@ -3,7 +3,8 @@
 <div align="center">
   <img width="60%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps Infrastructure" />
 </div>
-👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 I’m a **DevOps Engineer** focused on building **reliable, automated cloud infrastructure** using **Google Cloud Platform (GCP)**. My work centers on **Infrastructure as Code (IaC)**, **CI/CD automation**, and designing systems that are **scalable**, **observable**, and **fault-tolerant**.
 
@@ -12,7 +13,7 @@ I’ve developed **hands-on experience** by building and deploying **real-world 
 My primary environment is **GCP**, where I work with **Compute Engine**, **VPC networking**, **Identity and Access Management (IAM)**, and **deployment automation** to build **production-grade systems**.
 
 
-⚙️ Core Focus
+## ⚙️ Core Focus
 
 - Infrastructure as Code (Terraform)
 
@@ -24,7 +25,7 @@ My primary environment is **GCP**, where I work with **Compute Engine**, **VPC n
 
 - Monitoring, logging, and system reliability
 
-🧠 Engineering Principles
+## 🧠 Engineering Principles
 
 - Automate repetitive and manual processes
 
