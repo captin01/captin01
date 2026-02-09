@@ -142,20 +142,21 @@ Projects that help me learn by doing - because the best way to understand infras
 </div>
 
 ---
-### 💰 Bitcoin Live Price Chart
+
+### 💰 Live Crypto Prices
 <div align="center">
 
-[![Bitcoin Price Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],datasets:[{label:'BTC/USD',data:[45000,46200,44800,47500,48200,49100,50000],borderColor:'rgb(247,147,26)',backgroundColor:'rgba(247,147,26,0.1)',fill:true}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{y:{ticks:{color:'white'}},x:{ticks:{color:'white'}}}}})](https://www.coinbase.com/price/bitcoin)
+![Bitcoin](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%26vs_currencies=usd&query=$.bitcoin.usd&prefix=$&label=Bitcoin&style=for-the-badge&logo=bitcoin&logoColor=white&color=F7931A)
+![Ethereum](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum%26vs_currencies=usd&query=$.ethereum.usd&prefix=$&label=Ethereum&style=for-the-badge&logo=ethereum&logoColor=white&color=627EEA)
 
-**Current Bitcoin Price**
+[![BTC Chart](https://www.coingecko.com/coins/1/sparkline.svg)](https://www.coingecko.com/en/coins/bitcoin)
+[![ETH Chart](https://www.coingecko.com/coins/279/sparkline.svg)](https://www.coingecko.com/en/coins/ethereum)
 
-![BTC Price](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/BTC-USD/spot&query=$.data.amount&prefix=$&suffix=%20USD&label=BTC/USD&style=for-the-badge&logo=bitcoin&logoColor=white&color=F7931A)
-![ETH Price](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/ETH-USD/spot&query=$.data.amount&prefix=$&suffix=%20USD&label=ETH/USD&style=for-the-badge&logo=ethereum&logoColor=white&color=627EEA)
+*Prices update on page refresh • Charts show 7-day trend*
 
-*Prices update on page refresh*
+</div>
 
 ---
-</div>
  
 <div align="center">
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdheWJ5YzgyM2J3cngydm9yMzAxMDRxYWZxZm5vYnNwZjcyZmhhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NY3tXwOBUwQYq7lbXx/giphy.gif' style="height: 400px;"/>
