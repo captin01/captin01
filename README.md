@@ -69,19 +69,14 @@ open_to   = ["Data Engineer", "Data Analyst", "BI Developer", "KE / Remote"]
 ### 💰 Live Crypto Prices
 <div align="center">
 
-![Bitcoin](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%26vs_currencies=usd&query=$.bitcoin.usd&prefix=$&label=Bitcoin&style=for-the-badge&logo=bitcoin&logoColor=white&color=F7931A)
-![Ethereum](https://img.shields.io/badge/dynamic/json?url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum%26vs_currencies=usd&query=$.ethereum.usd&prefix=$&label=Ethereum&style=for-the-badge&logo=ethereum&logoColor=white&color=627EEA)
+![BTC](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/BTC-USD/spot&query=$.data.amount&prefix=$&label=BTC&labelColor=000000&color=F7931A&style=for-the-badge&logo=bitcoin&logoColor=F7931A)
+![ETH](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/ETH-USD/spot&query=$.data.amount&prefix=$&label=ETH&labelColor=000000&color=627EEA&style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![SOL](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/SOL-USD/spot&query=$.data.amount&prefix=$&label=SOL&labelColor=000000&color=14F195&style=for-the-badge&logo=solana&logoColor=14F195)
+![USDT](https://img.shields.io/badge/dynamic/json?url=https://api.coinbase.com/v2/prices/USDT-USD/spot&query=$.data.amount&prefix=$&label=USDT&labelColor=000000&color=26A17B&style=for-the-badge&logo=tether&logoColor=26A17B)
 
-<br><br>
-
-<a href="https://www.coingecko.com/en/coins/bitcoin" target="_blank">
-  <img src="https://www.coingecko.com/coins/1/sparkline.svg" alt="Bitcoin 7-day chart" width="400"/>
-</a>
-
-*Prices update on page refresh • Chart shows 7-day BTC trend*
+*Live spot prices via Coinbase's public API*
 
 </div>
-
 
 ### connect
 
