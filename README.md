@@ -41,17 +41,25 @@ tooling = {
 
 ### projects
 
-**[Automated ETL Framework](https://github.com/captin01/ELT_GCP_Project)**
-`Python` `SQL` `Data Engineering`
-Designed and built an end-to-end pipeline that extracts multi-source data, applies transformation logic, and loads it into an optimised SQL schema. Replaced manual processes, eliminated reporting bottlenecks, and gave stakeholders reliable, decision-ready data.
+**[Automated ELT Pipeline: GCP & Airflow](https://github.com/captin01/ELT_GCP_Project)**
+`Python` `SQL` `GCP` `Airflow` `BigQuery`
+Engineered an enterprise-grade ELT pipeline processing **1M+ records** from Google Cloud Storage to BigQuery. Orchestrated dynamic data movement with **Apache Airflow DAGs** and implemented in-warehouse SQL transformations for country-partitioned reporting tables.
 
-**[London Housing Analytics Suite](#)**
+**[Data Warehouse: 3NF to Star Schema](https://github.com/captin01/Data_Engineering_Projects/tree/main/Data_warehouse)**
+`PostgreSQL` `SQL` `Data Modeling`
+Designed and implemented a dimensional data warehouse by transforming a normalized **3NF** DVD rental database into an optimized **Star Schema**. Identified fact and dimension tables, enforced foreign key relationships, and populated the warehouse for efficient analytical querying.
+
+**[Data Pipeline & BI Dashboard](https://github.com/captin01/Data_Engineering_Projects/tree/main/Data_pipeline)**
+`Python` `PostgreSQL` `SQL` `Power BI`
+Built an end-to-end pipeline to ingest and clean e-commerce data into **PostgreSQL** using Python and Pandas. Conducted SQL-based analysis and delivered findings through interactive **Power BI** dashboards—replacing fragmented spreadsheets with a single source of truth.
+
+**[London Housing Analytics Suite](https://github.com/captin01/Data_Analysis/tree/master/London_Housing)**
 `Python` `Data Analysis` `Predictive Modelling`
-Built a trend-analysis engine to surface real estate price volatility across London markets. Designed as a reusable template for investment modelling — applies historical pattern recognition to anticipate market shifts.
+Built a trend-analysis engine to surface real estate price volatility across London markets. Designed as a reusable template for investment modelling—applies historical pattern recognition to anticipate market shifts.
 
-**[HR Workforce Intelligence Dashboard](#)**
+**[HR Workforce Intelligence Dashboard](https://github.com/captin01/Data_Analysis/tree/master/HR_distribution_report(SQL))**
 `Power BI` `SQL` `Business Intelligence`
-End-to-end BI solution tracking employee lifecycle, productivity metrics, and regional performance. Enabled evidence-based headcount and resource allocation decisions for leadership — replacing fragmented spreadsheets with a single source of truth.
+End-to-end BI solution tracking employee lifecycle, productivity metrics, and regional performance. Enabled evidence-based headcount and resource allocation decisions for leadership.
 
 ---
 
