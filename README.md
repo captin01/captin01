@@ -11,7 +11,7 @@
 **Data Engineer & Analyst based in Nairobi, Kenya.**
 I design and build the systems that make data useful — pipelines, warehouses, dashboards, and models that give teams a single source of truth. My work sits at the intersection of engineering rigour and business strategy.
 
-> *"Technology should not only function — it should actively improve the bottom line."*
+> *"ONELIFE MULTIPLE OUTCOMES."*
 
 ---
 
@@ -69,7 +69,7 @@ End-to-end BI solution tracking employee lifecycle, productivity metrics, and re
 learning  = ["AWS Solutions Architecture", "Data Warehousing at scale", "Cloud-native ETL (Glue, Redshift)"]
 studying  = "BSc Business & Information Technology — Riara University (2024–present)"
 building  = ["Portfolio data projects", "AWS-based pipeline architecture"]
-open_to   = ["Data Engineer", "Data Analyst", "BI Developer", "KE / Remote"]
+open_to   = ["Data Engineer", "Data Analyst", "BI Developer"]
 ```
 
 ---
@@ -93,6 +93,3 @@ open_to   = ["Data Engineer", "Data Analyst", "BI Developer", "KE / Remote"]
 
 ---
 
-<div align="center">
-  <sub>// Nairobi, Kenya &nbsp;·&nbsp; open to remote &nbsp;·&nbsp; building in public</sub>
-</div>
