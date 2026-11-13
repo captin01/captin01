@@ -41,7 +41,7 @@ tooling = {
 
 ### projects
 
-**[Automated ETL Framework](#)**
+**[Automated ETL Framework](https://github.com/captin01/ELT_GCP_Project)**
 `Python` `SQL` `Data Engineering`
 Designed and built an end-to-end pipeline that extracts multi-source data, applies transformation logic, and loads it into an optimised SQL schema. Replaced manual processes, eliminated reporting errors, and cut data prep time from hours to minutes.
 
