@@ -8,7 +8,7 @@
 
 ### whoami
 
-**Data Engineer & Analyst based in Nairobi, Kenya.**
+**Data Engineer & Analyst.**
 I design and build the systems that make data useful — pipelines, warehouses, dashboards, and models that give teams a single source of truth. My work sits at the intersection of engineering rigour and business strategy.
 
 > *"ONELIFE MULTIPLE OUTCOMES."*
